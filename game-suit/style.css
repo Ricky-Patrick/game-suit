@@ -1,0 +1,22 @@
+.posisi{
+    padding-top: 100px;
+}
+.batu{
+    border-radius: 50%;
+    border: none;
+    background-color: transparent;
+}
+.gunting{
+    border-radius: 50%;
+    border: none;
+    background-color: transparent;
+}
+.kertas{
+    border-radius: 50%;
+    border: none;
+    background-color: transparent;
+}
+.hasilpermainan{
+    padding-top:30px;
+    padding-bottom:30px;
+}
